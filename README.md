@@ -1,7 +1,7 @@
 # UniAssist DB Project
 
 A system that allows students to create an account that will get stored in a database, and use it to use several options that will help him/her organize his/her university life better.
-
+ 
 ## Technology used
 
 I used `Java` to code the application and `MySQL` to store important data such as login information. 
